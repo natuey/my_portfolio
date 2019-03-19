@@ -27,7 +27,7 @@ li a {
 
 /*Hover state for top level links*/
 li:hover a {
-  background: #b3eca2;
+  background: #f0d6ad;
 }
 
 /*Style for dropdown links*/
@@ -71,8 +71,8 @@ ul li a:hover + .hidden, .hidden:hover {
 .show-menu {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-decoration: none;
-  color: #fff;
-  background: #19c589;
+  color: black;
+  background: #f0d6ad;
   text-align: center;
   padding: 10px 0;
   display: none;
@@ -121,11 +121,19 @@ body {
 .header {
   padding: 60px;
   text-align: center;
-  background-image: url("/docs/header_cover.jpeg");
-  color: #f5eae5;
-  font-size: 30px;
-  height: 400px;
+  background-image: url("https://github.com/natuey/myportfolio/blob/master/docs/head_cover.jpg?raw=true");
+  color: #f0d6ad;
+  font-size: 40px;
+  height: 600px;
+  background-position: center;
   background-size: cover;
+}
+
+#container div {
+  width: 100%;
+  height: 100%;
+  background-color: #01030f;
+  opacity: 0.7;
 }
 
 /* Page Content */
