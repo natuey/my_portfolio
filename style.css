@@ -41,7 +41,7 @@ li:hover ul a {
 /*Hover state for dropdown links*/
 li:hover ul a:hover {
   background: #f19b69;
-  color: #fff;
+  color: #ffff;
 }
 
 /*Hide dropdown links until they are needed*/
@@ -69,7 +69,7 @@ ul li a:hover + .hidden, .hidden:hover {
 
 /*Style 'show menu' label button and hide it by default*/
 .show-menu {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   text-decoration: none;
   color: black;
   background: #f0d6ad;
@@ -112,9 +112,18 @@ input[type=checkbox]:checked ~ #menu {
   }
 }
 /* Style the body */
+* {
+  box-sizing: border-box;
+}
+
 body {
-  font-family: Arial;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
   margin: 0;
+  font-family: Arial;
+  padding: 30px;
+  text-align: justify;
 }
 
 /* Header/Logo Title */
@@ -137,19 +146,186 @@ body {
 }
 
 /* Page Content */
-.content {
-  padding: 20px;
-}
-
-/* Contact Section */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 * {
   box-sizing: border-box;
 }
 
+img {
+  width: 80%;
+  height: auto;
+}
+
+.row:after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*=col-] {
+  float: left;
+  padding: 15px;
+  width: 100%;
+}
+
+@media only screen and (min-width: 600px) {
+  .col-s-1 {
+    width: 8.33%;
+  }
+
+  .col-s-2 {
+    width: 16.66%;
+  }
+
+  .col-s-3 {
+    width: 25%;
+  }
+
+  .col-s-4 {
+    width: 33.33%;
+  }
+
+  .col-s-5 {
+    width: 41.66%;
+  }
+
+  .col-s-6 {
+    width: 50%;
+  }
+
+  .col-s-7 {
+    width: 58.33%;
+  }
+
+  .col-s-8 {
+    width: 66.66%;
+  }
+
+  .col-s-9 {
+    width: 75%;
+  }
+
+  .col-s-10 {
+    width: 83.33%;
+  }
+
+  .col-s-11 {
+    width: 91.66%;
+  }
+
+  .col-s-12 {
+    width: 100%;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .col-1 {
+    width: 8.33%;
+  }
+
+  .col-2 {
+    width: 16.66%;
+  }
+
+  .col-3 {
+    width: 25%;
+  }
+
+  .col-4 {
+    width: 33.33%;
+  }
+
+  .col-5 {
+    width: 41.66%;
+  }
+
+  .col-6 {
+    width: 50%;
+  }
+
+  .col-7 {
+    width: 58.33%;
+  }
+
+  .col-8 {
+    width: 66.66%;
+  }
+
+  .col-9 {
+    width: 75%;
+  }
+
+  .col-10 {
+    width: 83.33%;
+  }
+
+  .col-11 {
+    width: 91.66%;
+  }
+
+  .col-12 {
+    width: 100%;
+  }
+}
+html {
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.menu li {
+  padding: 8px;
+  margin-bottom: 7px;
+  background-color: #ffff;
+  color: #black;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.menu li:hover {
+  background-color: #f0d6ad;
+}
+
+.aside {
+  background-color: #ffff;
+  padding: 15px;
+  color: black;
+  text-align: center;
+  font-size: 14px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.extra-row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding: 10px 10px 30px 50px;
+}
+
+/* Create 3 equal columns that sits next to each other */
+.extra-column {
+  -ms-flex: 25%;
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.extra-column img {
+  margin-top: 8px;
+  vertical-align: middle;
+}
+
+/* Responsive layout - makes the 3 columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .extra-column {
+    -ms-flex: 100%;
+    flex: 100%;
+    max-width: 100%;
+  }
+}
+/* Contact Section */
 /* Style inputs */
 input[type=text], select, textarea {
   width: 100%;
