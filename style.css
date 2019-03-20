@@ -3,7 +3,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  position: absolute;
+  position: relative;
 }
 
 /*Create a horizontal list with spacing*/
@@ -19,20 +19,20 @@ li a {
   height: 50px;
   text-align: center;
   line-height: 50px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: black;
-  background: #f7f6f2;
+  background: #f5deb3;
   text-decoration: none;
 }
 
 /*Hover state for top level links*/
 li:hover a {
-  background: #f0d6ad;
+  background: #f7f6f2;
 }
 
 /*Style for dropdown links*/
 li:hover ul a {
-  background: #f3f3f3;
+  background: f5deb3;
   color: #2f3036;
   height: 40px;
   line-height: 40px;
@@ -72,7 +72,7 @@ ul li a:hover + .hidden, .hidden:hover {
   font-family: Arial, sans-serif;
   text-decoration: none;
   color: black;
-  background: #f0d6ad;
+  background: #f5deb3;
   text-align: center;
   padding: 10px 0;
   display: none;
@@ -128,21 +128,15 @@ body {
 
 /* Header/Logo Title */
 .header {
-  padding: 60px;
+  padding: 100px;
   text-align: center;
-  background-image: url("https://github.com/natuey/myportfolio/blob/master/docs/head_cover.jpg?raw=true");
-  color: #f0d6ad;
-  font-size: 40px;
+  background-image: url("https://freefrontend.com/assets/img/css-animation-examples/Pure-CSS-Animated-Bubbles.png?raw=true");
+  color: #f5deb3;
+  font-weight: bold;
+  font-size: 50px;
   height: 600px;
   background-position: center;
   background-size: cover;
-}
-
-#container div {
-  width: 100%;
-  height: 100%;
-  background-color: #01030f;
-  opacity: 0.7;
 }
 
 /* Page Content */
@@ -150,9 +144,14 @@ body {
   box-sizing: border-box;
 }
 
-img {
+.content h1 {
+  text-align: center;
+}
+
+.profile img {
   width: 80%;
   height: auto;
+  border-radius: 20% 20% 20% 20%;
 }
 
 .row:after {
@@ -351,6 +350,23 @@ html {
   /* Some padding */
 }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 2;
+  width: 100%;
+  border: 1px solid #ddd;
+  margin: 50px;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
 /* Contact Section */
 /* Style inputs */
 input[type=text], select, textarea {
@@ -363,15 +379,15 @@ input[type=text], select, textarea {
 }
 
 input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
+  background-color: #f5deb3;
+  color: black;
   padding: 12px 20px;
   border: none;
   cursor: pointer;
 }
 
 input[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #ffff;
 }
 
 /* Style the container/contact section */
@@ -387,6 +403,7 @@ input[type=submit]:hover {
   width: 50%;
   margin-top: 6px;
   padding: 20px;
+  text-align: left;
 }
 
 /* Clear floats after the columns */
@@ -403,24 +420,26 @@ input[type=submit]:hover {
     margin-top: 0;
   }
 }
+.social {
+  text-align: center;
+}
+
+.copyright {
+  font-size: 15px;
+}
+
 .fa {
   padding: 20px;
-  font-size: 30px;
-  width: 30px;
-  text-align: left;
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
   text-decoration: none;
-  margin: 5px 2px;
-  border-radius: 100%;
+  margin: 15px 15px;
+  border-radius: 50%;
 }
 
 .fa:hover {
   opacity: 0.7;
-}
-
-.fa-github {
-  background: #3B5998;
-  color: white;
-  position: center;
 }
 
 .fa-twitter {
@@ -430,6 +449,11 @@ input[type=submit]:hover {
 
 .fa-linkedin {
   background: #007bb5;
+  color: white;
+}
+
+.fa-github {
+  background: #3B5998;
   color: white;
 }
 
