@@ -64,6 +64,7 @@ The first thing I do was to figure out what I want to achieve and I wrote it dow
 
 ![Workflow](https://github.com/natuey/natuey.github.io/blob/master/docs/workflow.jpg?raw=true)
 
+### Trello
 Using [TRELLO](https://trello.com) to monitor my project online
 
 ![Trello](https://github.com/natuey/natuey.github.io/blob/master/docs/trello.png?raw=true)
@@ -76,7 +77,9 @@ I drafted the contents for the site.
 
 ![Contents](https://github.com/natuey/natuey.github.io/blob/master/docs/draft_content.jpg?raw=true)
 
-### Wireframing on [Balsamiq](https://https://balsamiq.com)
+### Wireframing 
+
+Wireframing using [Balsamiq](https://https://balsamiq.com)
 
 ![Homepage Wireframing](https://github.com/natuey/natuey.github.io/blob/master/docs/desktop_wire.png?raw=true)
 ![Mobile Wireframing](https://github.com/natuey/natuey.github.io/blob/master/docs/mob_wire.png?raw=true)
