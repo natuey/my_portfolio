@@ -3,13 +3,13 @@
 * [Purpose](#Purpose)
 * [Functionality / features](#Features)
 * [Sitemap](#Sitemap)
-* [Target audience](#Target_audience)
-* [Design documentation](#Design_Documentation)
-    *  [Design process](#Design_Process)
+* [Target audience](#Target-audience)
+* [Design documentation](#Design-Documentation)
+    *  [Design process](#Design-Process)
     *  [Wireframes](#wireframing)
-* [Project plan & timeline](#Day_1)
+* [Project plan & timeline](#Project-plan)
 * [Screenshots of Trello](#Trello)
-* [Interesting topics](#Interesting_topics)
+* [Interesting topics](#Interesting-topics)
 
 ## NATHAN TU'S PERSONAL PORTFOLIO
 
@@ -76,11 +76,12 @@ I drafted the contents for the site.
 
 ![Contents](https://github.com/natuey/natuey.github.io/blob/master/docs/draft_content.jpg?raw=true)
 
-Wireframing on [Balsamiq](https://https://balsamiq.com)
+### Wireframing on [Balsamiq](https://https://balsamiq.com)
 
 ![Homepage Wireframing](https://github.com/natuey/natuey.github.io/blob/master/docs/desktop_wire.png?raw=true)
 ![Mobile Wireframing](https://github.com/natuey/natuey.github.io/blob/master/docs/mob_wire.png?raw=true)
 
+### Project Plan
 As this is my first ever project online, I used my drafted workflow to give me a guide on my progress. It helps me to organise my tasks and estimate the amount of time each will take.
 * Day 1: Design, Wireframing, Contents, Research on Themes, Layouts, Typography and Inspirational Portfolios
 * Day 2: Building the site on HTML and Styling with CSS
