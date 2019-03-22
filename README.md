@@ -16,7 +16,7 @@
 ### DESCRIPTION
 This repo contains my very first  personal website which was created as part of an assessment with Coder Academy. It was created with HTML and CSS. The expectation is to update this personal website into a professional portfolio as I go through with Javascript and other languages. 
 
-To view my personal page, please [click here](https://natuey.github.io).
+To view my personal page, please [click here](https://natuey.github.io/src/index.html).
 
 ### PURPOSE
 
@@ -25,7 +25,7 @@ To view my personal page, please [click here](https://natuey.github.io).
 * Using different sections and divs in HTML to style the content with CSS.
 * Learning different features in CSS.
 * Exploring different properties and values in styling with CSS.
-* Deploying the website on [Github personal page](https://natuey.github.io)
+* Deploying the website on [Github personal page](https://github.com/natuey/natuey.github.io)
 
 ### FEATURES
 
