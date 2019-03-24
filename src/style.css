@@ -1,6 +1,10 @@
 
 
 /* STYLING FOR NAV BAR - SOURCE: W3SCHOOL */ - 
+body {
+  font-family: "Merriweather";
+}
+
 ul {
   list-style-type:none;
   margin:0;
@@ -165,7 +169,7 @@ h3 {
 }
 
 h1 {
-  font-family: 'Oswald';
+  font-family: 'Merriweather';
   text-align: center;
 }
 
@@ -179,7 +183,7 @@ h1 {
 
 .about-text {
   font-size: 23px;
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather';
   text-align: center;
 }
 
