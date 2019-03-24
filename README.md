@@ -38,6 +38,8 @@ To view my personal page, please [click here](https://natuey.github.io/src/index
 
 ## SITEMAP
 
+![Sitemap](https://github.com/natuey/natuey.github.io/blob/master/docs/sitemap.jpg?raw=true)
+
 * [Home](https://natuey.github.io/#home)
 * [About](https://natuey.github.io/#about)
 * [Experience](https://natuey.github.io/#experience)
