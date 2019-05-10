@@ -3,21 +3,21 @@
 [![N|Solid](https://github.com/livelifedev/team-cool/blob/master/app/assets/images/logo.png?raw=true)](http://lib-u.herokuapp.com/)
 # CONTENTS
 - [Description](#Description)
-- [Purpose](#Purpose_of_Libu_application)
-- [Section 1. LIBU Application](#Libu_application)
-    - [Functionality/Features](#Functionality_Features)
+- [Purpose](#Purpose-of-Libu-application)
+- [Section 1. LIBU Application](#Libu-application)
+    - [Functionality/Features](#Functionality-Features)
     - [Images](#Screenshots)
     - [Tech Stacks](#tech-stacks)
-- [Design Documentation](#Design_documentation)
+- [Design Documentation](#Design-documentation)
     - [Design Process](#design-process)
     - [User stories](#User-stories)
-    - [User workflow diagram](#A-workflow-diagram-of-the-user-journey/s)
+    - [User workflow diagram](#A-workflow-diagram-of-the-user-journey)
     - [Wireframe](#Wireframes)
     - [Database Entity Relationship Diagram](#Database-Entity-Relationship-Diagrams)
     - [Planning Process](#Details-of-planning-process)
-    - [Project Timeline](#Project-plan-&-timeline)
+    - [Project Timeline](#Project-plan-timeline)
     - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Section 2. Short Answers](Section-2.-Short-Answer-questions)
+- [Section 2. Short Answers](Section-2-Short-Answer-questions)
 
 ## Description
 LIBU is a web application which students and teachers have access to and be able to easily find academic materials, on a wide range of subjects, without infringing on copyright laws. 
