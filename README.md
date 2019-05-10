@@ -4,8 +4,8 @@
 # CONTENTS
 - [Description](#Description)
 - [Purpose](#Purpose-of-Libu-application)
-- [Section 1. LIBU Application](#Libu-application)
-    - [Functionality & Features](#Functionality-Features)
+- [Section 1. LIBU Application](#Section-1-Libu-application)
+    - [Functionality and Features](#Functionality-Features)
     - [Images](#Screenshots)
     - [Tech Stacks](#Tech-Stacks)
 - [Design Documentation](#Design-documentation)
@@ -30,8 +30,9 @@ The aim is to provide a platform for students and teachers to upload, share and 
 
 In addition, LIBU is to become a community where students can share and discuss ideas with their peers and/or educators. The interface should make it easier for our users to locate relevant information by being intuitive, easy to navigate and grouping materials by subject.
 
-# Section 1. LIBU APPLICATION
-## Functionality / features
+# Section 1. 
+# LIBU APPLICATION
+## Functionality and features
 (i) Search educational materials based on different subjects: Mathematics, History, Science, Geography, English and Biology
 (ii) Create and upload new academic materials to share with other members
 (iii) Bookmarks users' favorite documents
@@ -46,7 +47,7 @@ In addition, LIBU is to become a community where students can share and discuss 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/user_dashboard.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/user_profile.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/search.png?raw=true)
-## Tech stack (e.g. html, css, deployment platform, etc)
+## Tech stacks
 (i) Ruby on Rails
 (ii) HTML
 (iii) CSS and SASS for styling
@@ -74,12 +75,12 @@ In addition, LIBU is to become a community where students can share and discuss 
 (i) As a student with minimal income, I want to be able to quickly access to a low cost and up-to-date research in European history as I’m completing my final year in Bachelor of Arts.
 (ii) As a year 12 student, I’d love to access other students’ works in Mathematics on my phone so I could be better prepared for my HSC at the end of this year
 (iii) As a teacher, I would like to share my research materials and books in a platform for academics
-#### A workflow diagram of the user journey/s.
+#### User Workflow Diagram
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/user_flowchart.png?raw=true)
 #### Wireframes
 View our wireframe documents [here](https://drive.google.com/file/d/1VY1LZgJODxal_xDovEaXdbKk0HLO-Ys6/view?usp=sharing)
 #### Database Entity Relationship Diagrams
-![N|Solid](https://files.slack.com/files-pri/TFS42BWG0-FJMEPG9HV/erd_final.jpeg)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/erd_final.jpeg?raw=true)
 #### Details of planning process
 (i) Initial Planning, Research & Brainstorming
 (ii) Design Process, Wireframing & ERD
@@ -88,11 +89,12 @@ View our wireframe documents [here](https://drive.google.com/file/d/1VY1LZgJODxa
 (v) Finalize all features and styling
 (vi) Documentations
 (vii) Project Completion - Presentation
-#### Project plan & timeline
+#### Project timeline
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/Timeline.png?raw=true)
-#### Screenshots of Trello board(s)
+#### Screenshots of Trello board
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/trello.png?raw=true)
-## Section 2. Short Answer questions 
+# Section 2. 
+# Short Answer questions 
 
 ##### 1. What is the need (i.e. challenge) that you will be addressing in your project?
     
@@ -166,7 +168,7 @@ Databases can also reference (establish a relationship) with more than one datab
 (ix) Answer belongs to user and question
 
 ##### 14. Database schema design
-![N|Solid](https://files.slack.com/files-pri/TFS42BWG0-FJMEPG9HV/erd_final.jpeg)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/erd_final.jpeg?raw=true)
 
 ##### 15. User stories 
 (i) As a student with minimal income, I want to be able to quickly access to a low cost and up-to-date research in European history as I'm completing my final year in Bachelor of Arts.
