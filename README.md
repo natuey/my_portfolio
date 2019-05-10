@@ -89,10 +89,12 @@ View our wireframe documents [here](https://drive.google.com/file/d/1VY1LZgJODxa
 (v) Finalize all features and styling<br/>
 (vi) Documentations<br/>
 (vii) Project Completion - Presentation<br/>
+
 #### Project timeline
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/Timeline.png?raw=true)
 #### Screenshots of Trello board
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/trello.png?raw=true)
+
 # Section 2. 
 # Short Answer questions 
 
