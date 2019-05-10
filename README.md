@@ -4,8 +4,8 @@
 # CONTENTS
 - [Description](#Description)
 - [Purpose](#Purpose-of-Libu-application)
-- [Section 1. LIBU Application](#Section-1-Libu-application)
-    - [Functionality and Features](#Functionality-Features)
+- [Section 1](#Libu-application)
+    - [Functionality and Features](#Functionality-and-Features)
     - [Images](#Screenshots)
     - [Tech Stacks](#Tech-Stacks)
 - [Design Documentation](#Design-documentation)
@@ -17,7 +17,7 @@
     - [Planning Process](#Details-of-planning-process)
     - [Project Timeline](#Project-timeline)
     - [Screenshots of Trello board](#Screenshots)
-- [Section 2. Short Answers](Short-Answer-questions)
+- [Section 2 Short Answers](Short-Answer-questions)
 
 ## Description
 LIBU is a web application which students and teachers have access to and be able to easily find academic materials, on a wide range of subjects, without infringing on copyright laws. 
@@ -82,8 +82,8 @@ View our wireframe documents [here](https://drive.google.com/file/d/1VY1LZgJODxa
 #### Database Entity Relationship Diagrams
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/erd_final.jpeg?raw=true)
 #### Details of planning process
-(i) Initial Planning, Research & Brainstorming
-(ii) Design Process, Wireframing & ERD
+<p>(i) Initial Planning, Research & Brainstorming</p>
+(ii) Design Process, Wireframing & ERD(<br/>)
 (iii) Approval for Concepts, Wireframing & ERD
 (iv) Work on application and styling
 (v) Finalize all features and styling
