@@ -17,7 +17,7 @@
     - [Planning Process](#Details-of-planning-process)
     - [Project Timeline](#Project-timeline)
     - [Screenshots of Trello board](#Screenshots)
-- [Short Answers](Short-Answer-questions)
+- [Short Answers](Short-Answers)
 
 ## Description
 LIBU is a web application which students and teachers have access to and be able to easily find academic materials, on a wide range of subjects, without infringing on copyright laws. <br/>
@@ -96,7 +96,7 @@ View our wireframe documents [here](https://drive.google.com/file/d/1VY1LZgJODxa
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/trello.png?raw=true)
 
 # Section 2. 
-# Short Answer questions 
+# Short Answers 
 
 ##### 1. What is the need (i.e. challenge) that you will be addressing in your project?
     
