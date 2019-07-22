@@ -3,21 +3,21 @@
 # CONTENTS
 
 - [Description](#Description)
-- [Purpose](#Purpose-of-Foodladder-application)
-- [Section 1. Food Ladder Application](#Foodladder-application)
-  - [Functionality/Features](#Functionality-Features)
+- [Purpose](#Purpose-of-Food-Ladder-Web-application)
+- [Section 1. Food Ladder Application](#Food-Ladder-application)
+  - [Functionality/Features](#Functionality-and-Features)
   - [Images](#Screenshots)
   - [Tech Stacks](#tech-stacks)
 - [Design Documentation](#Design-documentation)
   - [Design Process](#design-process)
   - [User stories](#User-stories)
-  - [User workflow diagram](#A-workflow-diagram-of-the-user-journey/s)
-  - [Wireframe](#Wireframes)
-  - [Database Diagram](#Database-Diagrams)
+  - [User workflow diagram](#A-workflow-diagram-of-the-user-journey)
+  - [Wireframes](#Wireframes)
+  - [Database Diagram](#Database-Diagram)
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan-&-timeline)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Section 2. Short Answers](Section-2)
+- [Section 2. Short Answers](Short-answer-questions)
 
 ## Description
 
@@ -34,9 +34,9 @@ To extend Food Ladder's reach by focusing on what they do best, creating social 
 
 This online platform will not only be a tool for communities to speak to Food Ladder's horticulture experts it will also be a self-moderating virtual community, where communities around the world can assist one another, providing growing tips, class ideas etc. Food Ladder believe this online solution will thrive in developing countries, with the World Bank finding the poorest households are more likely to have access to mobile phones than to toilets or clean water.
 
-# Section 1. FOOD LADDER'S WEB APPLICATION
+# Section 1. FOOD LADDER APPLICATION
 
-## Functionality / features
+## Functionality and features
 
 #### CORE GOALS
 
