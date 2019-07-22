@@ -4,7 +4,7 @@
 
 - [Description](#Description)
 - [Purpose](#Purpose-of-Food-Ladder-Web-application)
-- [Section 1. Food Ladder Application](#Food-Ladder-application)
+- [Food Ladder Application](#Food-Ladder-application)
   - [Functionality/Features](#Functionality-and-Features)
   - [Images](#Screenshots)
   - [Tech Stacks](#tech-stacks)
@@ -17,7 +17,7 @@
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Section 2. Short Answers](Short-answer-questions)
+- [Short Answers](Short-answer-questions)
 
 ## Description
 
