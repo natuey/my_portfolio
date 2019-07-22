@@ -3,21 +3,21 @@
 # CONTENTS
 
 - [Description](#Description)
-- [Purpose](#Purpose_of_Foodladder_application)
-- [Section 1. Food Ladder Application](#Foodladder_application)
-  - [Functionality/Features](#Functionality_Features)
+- [Purpose](#Purpose-of-Foodladder-application)
+- [Section 1. Food Ladder Application](#Foodladder-application)
+  - [Functionality/Features](#Functionality-Features)
   - [Images](#Screenshots)
   - [Tech Stacks](#tech-stacks)
-- [Design Documentation](#Design_documentation)
+- [Design Documentation](#Design-documentation)
   - [Design Process](#design-process)
   - [User stories](#User-stories)
   - [User workflow diagram](#A-workflow-diagram-of-the-user-journey/s)
   - [Wireframe](#Wireframes)
-  - [Database Entity Relationship Diagram](#Database-Entity-Relationship-Diagrams)
+  - [Database Diagram](#Database-Diagrams)
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan-&-timeline)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Section 2. Short Answers](Section-2.-Short-Answer-questions)
+- [Section 2. Short Answers](Section-2)
 
 ## Description
 
@@ -141,7 +141,7 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/workflow.png?raw=true)
 
-#### User stories (in order of IMPORTANCE - Most to Least)
+#### User stories
 
 (i) As a Project member, I want to be able to post any issues I have with the project to gather answers and support.<br/>
 (ii) As a staff member, I want to be able to create a new project and generate a unique invitation code to send to a community member.<br/>
@@ -178,26 +178,28 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 
 #### Details of planning process
 
-(i) Initial Planning, Research & Brainstorming
-(ii) Design Process and Wireframing
-(iii) Approval for Project Brief from Client
-(iv) Work on application ( back-end and front-end)
-(v) Finalize all features and styling
-(vi) Documentations
-(vii) Project Completion - Presentation
+(i) Initial Planning, Research & Brainstorming<br/>
+(ii) Design Process and Wireframing<br/>
+(iii) Approval for Project Brief from Client<br/>
+(iv) Work on application ( back-end and front-end)<br/>
+(v) Finalize all features and styling<br/>
+(vi) Documentations<br/>
+(vii) Project Completion - Presentation<br/>
 
 #### Project plan & timeline
 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/timeline.png?raw=true)
 
-#### Screenshots of Trello board(s)
+#### Screenshots of Trello board
 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/tasks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/client_meeting.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/stacks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/users_stories.png?raw=true)
 
-## Section 2. Short Answer questions
+## Section 2
+
+###Short Answer questions
 
 ##### 1. What are the most important aspects of quality software?
 
