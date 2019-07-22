@@ -17,7 +17,7 @@
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Short Answers](Short-answer-questions)
+- [Short Answers](Short-Answer-Questions)
 
 ## Description
 
@@ -34,7 +34,7 @@ To extend Food Ladder's reach by focusing on what they do best, creating social 
 
 This online platform will not only be a tool for communities to speak to Food Ladder's horticulture experts it will also be a self-moderating virtual community, where communities around the world can assist one another, providing growing tips, class ideas etc. Food Ladder believe this online solution will thrive in developing countries, with the World Bank finding the poorest households are more likely to have access to mobile phones than to toilets or clean water.
 
-# Section 1. FOOD LADDER APPLICATION
+## FOOD LADDER APPLICATION
 
 ## Functionality and features
 
@@ -197,9 +197,7 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/stacks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/users_stories.png?raw=true)
 
-## Section 2
-
-###Short Answer questions
+##Short Answer Questions
 
 ##### 1. What are the most important aspects of quality software?
 
