@@ -11,11 +11,11 @@
 - [Design Documentation](#Design-documentation)
   - [Design Process](#design-process)
   - [User stories](#User-stories)
-  - [User workflow diagram](#A-workflow-diagram-of-the-user-journey)
+  - [User workflow diagram](#User-Workflow-Diagram)
   - [Wireframes](#Wireframes)
   - [Database Diagram](#Database-Diagram)
   - [Planning Process](#Details-of-planning-process)
-  - [Project Timeline](#Project-plan-&-timeline)
+  - [Project Timeline](#Project-plan)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
 - [Section 2. Short Answers](Short-answer-questions)
 
@@ -159,7 +159,7 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 (xiv) As a staff member, I want to be notified about activity on monthly project reports.<br/>
 (xv) As a project admin, I want to be able to see my report history as a snapshot.<br/>
 
-#### A workflow diagram of the user journey/s.
+#### User Workflow Diagram
 
 ![N|Solid](USER WORKFLOW DIAGRAM)
 
@@ -186,7 +186,7 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 (vi) Documentations<br/>
 (vii) Project Completion - Presentation<br/>
 
-#### Project plan & timeline
+#### Project plan
 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/timeline.png?raw=true)
 
