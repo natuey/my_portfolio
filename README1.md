@@ -3,8 +3,8 @@
 # CONTENTS
 
 - [Description](#Description)
-- [Purpose](#Purpose_of_Food_Ladder_Web_Application)
-- [Section 1. Food Ladder Application](#FoodLadder_application)
+- [Purpose](#Purpose_of_Foodladder_application)
+- [Section 1. Food Ladder Application](#Foodladder_application)
   - [Functionality/Features](#Functionality_Features)
   - [Images](#Screenshots)
   - [Tech Stacks](#tech-stacks)
@@ -143,21 +143,21 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 #### User stories (in order of IMPORTANCE - Most to Least)
 
-(i) As a Project member, I want to be able to post any issues I have with the project to gather answers and support.
-(ii) As a staff member, I want to be able to create a new project and generate a unique invitation code to send to a community member.
-(iii) A a project member, I want to be able to search existing posts to see if my problems have been solved in the past.
-(iv) As a project member, I want to easily conduct monthly reporting to maintain FoodLadder's ongoing support to my project.
-(v) As a staff member, I want to reduce on site presence to reduce costs.
-(vi) As a staff member, I want to be notified of new queries from our members in order to provide them prompt replies.
-(vii) As a staff member, I want an easy-to-use online community so project members can easily access support.
-(viii) As a project admin, I would like to be able to sign up easily and enter my project's details.
-(ix) As a team member, I would like to access the community in my preferred language.
-(x) As a project admin, I want to be able to give members of my community access to online services.
-(xi) As a staff member, I want to be able to invite projects to join our online community.
-(xii) As a staff member, I want to navigate easily on the website so I could work remotely.
-(xiii) As a team member, I want to see what other projects are discussing on the community forum.
-(xiv) As a staff member, I want to be notified about activity on monthly project reports.
-(xv) As a project admin, I want to be able to see my report history as a snapshot.
+(i) As a Project member, I want to be able to post any issues I have with the project to gather answers and support.<br/>
+(ii) As a staff member, I want to be able to create a new project and generate a unique invitation code to send to a community member.<br/>
+(iii) A a project member, I want to be able to search existing posts to see if my problems have been solved in the past.<br/>
+(iv) As a project member, I want to easily conduct monthly reporting to maintain FoodLadder's ongoing support to my project.<br/>
+(v) As a staff member, I want to reduce on site presence to reduce costs.<br/>
+(vi) As a staff member, I want to be notified of new queries from our members in order to provide them prompt replies.<br/>
+(vii) As a staff member, I want an easy-to-use online community so project members can easily access support.<br/>
+(viii) As a project admin, I would like to be able to sign up easily and enter my project's details.<br/>
+(ix) As a team member, I would like to access the community in my preferred language.<br/>
+(x) As a project admin, I want to be able to give members of my community access to online services.<br/>
+(xi) As a staff member, I want to be able to invite projects to join our online community.<br/>
+(xii) As a staff member, I want to navigate easily on the website so I could work remotely.<br/>
+(xiii) As a team member, I want to see what other projects are discussing on the community forum.<br/>
+(xiv) As a staff member, I want to be notified about activity on monthly project reports.<br/>
+(xv) As a project admin, I want to be able to see my report history as a snapshot.<br/>
 
 #### A workflow diagram of the user journey/s.
 
