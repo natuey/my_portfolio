@@ -17,7 +17,7 @@
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Short Answers](Short-Answer-Questions)
+- [Short Answers](#Short-Answer-Questions)
 
 ## Description
 
