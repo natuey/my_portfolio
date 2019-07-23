@@ -17,7 +17,7 @@
   - [Planning Process](#Details-of-planning-process)
   - [Project Timeline](#Project-plan)
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
-- [Short Answers](Short-Answer-Questions)
+- [Short Answers](#Short-Answer-Questions)
 
 ## Description
 
@@ -161,7 +161,8 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 #### User Workflow Diagram
 
-![N|Solid](USER WORKFLOW DIAGRAM)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/admin_flow.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/user_flow.png?raw=true)
 
 #### Wireframes
 
@@ -197,7 +198,7 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/stacks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/users_stories.png?raw=true)
 
-##Short Answer Questions
+## Short Answer Questions
 
 ##### 1. What are the most important aspects of quality software?
 
