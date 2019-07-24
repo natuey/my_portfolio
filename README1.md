@@ -32,6 +32,7 @@ Project-related documentations
 - [Web Development Brief](https://drive.google.com/file/d/1MDe6ay3fjost7yoTT3l4NNSvtFWNS0JR/view?usp=sharing)
 - [Statement of Work](https://drive.google.com/file/d/1Ns3DQnt1MW6LGi3ZTkj1bmLtNpVW6UpA/view?usp=sharing)
 - [Client Communication Tracker](https://drive.google.com/file/d/1ta32D3-DIKY0L-dYFf9eZsezriMuvh8O/view?usp=sharing)
+- [Client Satisfaction Survey](https://www.surveymonkey.com/r/PDB6MRC)
 
 ## Purpose of Food Ladder Web Application
 
@@ -43,7 +44,7 @@ This online platform will not only be a tool for communities to speak to Food La
 
 ## Instructions:
 
-Cloning the project and installing Dependencies. Ensure you run 2 terminal windows open, one for express (back-end) and one for front-end.
+Cloning the project and installing Dependencies. Ensure you run 2 terminal windows, one for express (back-end) and one for front-end.
 
 ###### Back-end:
 
