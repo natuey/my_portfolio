@@ -25,9 +25,12 @@ Food Ladder is committed to leading the implementation of innovative and sustain
 
 How it would work is communities implement basic greenhouses structures using our blueprint and recommended supplier. We will then provide the know-how and support via manuals (operating guides, education, curriculums etc) and an online platform (website and app) so the system can thrive. This online platform will not only be a tool for communities to speak to our horticulture experts it will also be a self-moderating virtual community, where communities around the world can assist one another, providing growing tips, class ideas etc.
 
-View Food Ladder web application, [please click here](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/).
-View our Github repos here for [BACK-END](https://github.com/bHarlum/food-ladder-express) and for [FRONT-END](https://github.com/bHarlum/food-ladder-react)<br/><br/>
-Project-related documentations
+View Food Ladder live web application, [HERE](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/).<br/><br/>
+View our Github repos here for:
+
+- [BACK-END](https://github.com/bHarlum/food-ladder-express) and
+- [FRONT-END](https://github.com/bHarlum/food-ladder-react)<br/><br/>
+  Project-related documentations
 
 - [Web Development Brief](https://drive.google.com/file/d/1MDe6ay3fjost7yoTT3l4NNSvtFWNS0JR/view?usp=sharing)
 - [Statement of Work](https://drive.google.com/file/d/1Ns3DQnt1MW6LGi3ZTkj1bmLtNpVW6UpA/view?usp=sharing)
