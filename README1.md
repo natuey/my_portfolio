@@ -28,9 +28,10 @@ How it would work is communities implement basic greenhouses structures using ou
 View Food Ladder live web application, [HERE](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/).<br/><br/>
 View our Github repos here for:
 
-- [BACK-END](https://github.com/bHarlum/food-ladder-express) and
+- [BACK-END](https://github.com/bHarlum/food-ladder-express)
 - [FRONT-END](https://github.com/bHarlum/food-ladder-react)<br/><br/>
-  Project-related documentations
+
+Project-related documentations
 
 - [Web Development Brief](https://drive.google.com/file/d/1MDe6ay3fjost7yoTT3l4NNSvtFWNS0JR/view?usp=sharing)
 - [Statement of Work](https://drive.google.com/file/d/1Ns3DQnt1MW6LGi3ZTkj1bmLtNpVW6UpA/view?usp=sharing)
