@@ -41,6 +41,29 @@ This online platform will not only be a tool for communities to speak to Food La
 
 ## FOOD LADDER APPLICATION
 
+## Instructions:
+
+Cloning the project and installing Dependencies. Ensure you run 2 terminal windows open, one for express (back-end) and one for front-end.
+
+###### Back-end:
+
+-       $ git clone https://github.com/bHarlum/food-ladder-express.git
+-        $ cd food-ladder-express
+-        $ npm install
+-        $ npm run dev-server
+
+###### Front-end:
+
+-       $ git clone https://github.com/bHarlum/food-ladder-react.git
+-       $ cd food-ladder-react
+-       $ npm install
+-       $ npm start
+
+###### Other requirements:
+
+- MongoDB
+- AWS
+
 ## Functionality and features
 
 #### CORE GOALS
@@ -85,11 +108,13 @@ This online platform will not only be a tool for communities to speak to Food La
 
 ## Screenshots
 
-![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/landing.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_landing.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/login.png?raw=true)
-![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/projects_page.png?raw=true)
-![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/resources_page.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_project_dashboard.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_new_project.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/forum_page.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_comments.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_resources.png?raw=true)
 
 ## Tech stacks
 
