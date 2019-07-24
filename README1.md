@@ -111,6 +111,11 @@ Cloning the project and installing Dependencies. Ensure you run 2 terminal windo
 - Access to user data and metrics
 - Ability to download and save documents/images/videos
 
+#### STRETCH GOALS
+
+- Instant Messaging/Direct Chat
+- Multilingual functionality
+
 ## Screenshots
 
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/app_landing.png?raw=true)
