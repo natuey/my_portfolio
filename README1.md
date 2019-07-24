@@ -224,7 +224,7 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 
 #### Screenshots of Trello board
 
-![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/tasks.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/trello-tasks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/client_meeting.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/stacks.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/users_stories.png?raw=true)
