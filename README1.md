@@ -27,6 +27,11 @@ How it would work is communities implement basic greenhouses structures using ou
 
 View Food Ladder web application, [please click here](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/).
 View our Github repos here for [BACK-END](https://github.com/bHarlum/food-ladder-express) and for [FRONT-END](https://github.com/bHarlum/food-ladder-react)
+Project-related documentations
+
+- [Web Development Brief](https://drive.google.com/file/d/1MDe6ay3fjost7yoTT3l4NNSvtFWNS0JR/view?usp=sharing)
+- [Statement of Work](https://drive.google.com/file/d/1Ns3DQnt1MW6LGi3ZTkj1bmLtNpVW6UpA/view?usp=sharing)
+- [Client Communication Tracker](https://drive.google.com/file/d/1ta32D3-DIKY0L-dYFf9eZsezriMuvh8O/view?usp=sharing)
 
 ## Purpose of Food Ladder Web Application
 
@@ -267,9 +272,17 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 ##### 3.A team is about to engage in a project, developing a website for a small business. What knowledge and skills would they need in order to develop the project?
 
+###### Technical Skills and Knowledge
+
 (i) A full-stack web developer is a technology expert who can work on both in the front end & back-end of any application.
 (ii) Full stack developer helps you to keep every part of the system running smoothly
 (iii) Skill sets required to become a Full Stack Developer are Front-end technology, Development Languages, Database, Basic design ability, Server, Working with API and version control systems.
+
+###### Soft skills
+
+(i) Ability to multitask with time constraints
+(ii) Good communication skills in order to liaise with client and meet client's expectations
+(iii) Ability to work in a team
 
 ##### 4. Within your own project what knowledge or skills were required to complete your project, and overcome challenges?
 
