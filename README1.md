@@ -6,6 +6,7 @@
 - [Client Description](#Client-Description)
 - [Purpose](#Purpose-of-Food-Ladder-Web-application)
 - [Food Ladder Application](#Food-Ladder-application)
+  - [Deployment Instructions](#Deployment-Instructions)
   - [Version Control Process](#Version-Control-Process)
   - [Functionality/Features](#Functionality-and-Features)
   - [Images](#Screenshots)
@@ -78,6 +79,8 @@ Cloning the project and installing Dependencies. Ensure you run 2 terminal windo
 
 - MongoDB
 - AWS
+
+View our [Deployment Instructions](https://docs.google.com/document/d/1rIXq4x8JuGYdHgKocJmVhcpoPfdOB3HAkWXFK0atJ38/edit?usp=sharing)
 
 ## Version Control Process
 
