@@ -241,7 +241,7 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 
 #### Database Diagram
 
-![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/Food%20Ladder%20-%20Database%20Diagram%20v1.png?raw=true)
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/Food%20Ladder%20-%20Database%20Diagram.png?raw=true)
 
 #### Details of planning process
 
@@ -268,21 +268,28 @@ View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p
 
 ##### 1. What are the most important aspects of quality software?
 
-###### Reliability
+In our opinion, the most important aspects of software quality are broken down to 3 areas: functional quality, structural quality, and process quality.
 
-An attribute of resiliency and structural solidity. Reliability measures the level of risk and the likelihood of potential application failures. It also measures the defects injected due to modifications made to the software (its "stability" as termed by ISO). The goal for checking and monitoring Reliability is to reduce and prevent application downtime, application outages and errors that directly affect users, and enhance the image of IT and its impact on a company's business performance.
+(i) Functional quality means that our application correctly performs the tasks and functionalities it’s intended to do for our client. For example:
 
-###### Efficiency
+- Meeting the specified requirements: achieving client's objectives requires us as developers to understand and implement the correct requirements throughout, not just those initially defined for the project.
+- Creating the application that has few defects: among these are bugs that reduce the software’s reliability, compromise its security, or limit its functionality. Achieving zero defects is too much to ask for most projects, but clients are rarely happy with software they perceive as buggy.
+- Good enough performance: from a client’s point of view, there’s no such thing as a good, slow application.
+- Ease of learning and ease of use: from client's perspective, the software’s user interface is the application, and so these attributes of functional quality are most commonly provided by an effective interface and a well-thought-out user workflow. The aesthetics of the interface—how beautiful it is—can also be important, especially in
+  consumer applications.
+- Software testing commonly focuses on functional quality: all of the characteristics just listed can be tested, at least to some degree, and so a large part of ensuring functional quality boils down to testing.
 
-The source code and software architecture attributes are the elements that ensure high performance once the application is in run-time mode. Efficiency is especially important for applications in high execution speed environments such as algorithmic or transactional processing where performance and scalability are paramount. An analysis of source code efficiency and scalability provides a clear picture of the latent business risks and the harm they can cause to customer satisfaction due to response-time degradation.
+(ii) Structural quality means that the code itself is well structured.
 
-###### Security
+- Code testability: Is the code organized in a way that makes testing easy?
+- Code maintainability: How easy is it to add new code or change existing code without introducing bugs?
+- Code understandability: Is the code readable? Is it more complex than it needs to be?
+- Code efficiency: Especially in resource-constrained situations, writing efficient code can be critically important.
+- Code security: Does the software allow common attacks such as buffer overruns and SQL injection? Is it insecure in other ways?
 
-A measure of the likelihood of potential security breaches due to poor coding practices and architecture. This quantifies the risk of encountering critical vulnerabilities that damage the business.[20]
+(iii) Process quality:
 
-###### Maintainability
-
-Maintainability includes the notion of adaptability, portability and transferability (from one development team to another). Measuring and monitoring maintainability is a must for mission-critical applications where change is driven by tight time-to-market schedules and where it is important for IT to remain responsive to business-driven changes. It is also essential to keep maintenance costs under control.
+- Meeting delivery dates: Was the software delivered on time?
 
 ##### 2. What libraries are being used in the app and why?
 
@@ -350,3 +357,11 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 MERN
 
 ##### 5. Evaluate how effective your knowledge and skills were this project, using examples, and suggest changes or improvements for future projects of a similar nature?
+
+As a team, we believe we have sufficient knowledge and tools we could use to complete the core goals set out by the client. The key lessons which we learnt from this project are
+
+- Doing it right first means we don’t have to spend time doing it over.
+- Placing as much importance on architecture and design as coding ensures the veracity of our project.
+- Creating coding standards in order to eliminates unnecessary mistakes.
+- Effective peer review ensures errors are minimised before we merge to our development branch
+- Testing often allows us to plan further ahead with certainty that errors and bugs have been fixed.
