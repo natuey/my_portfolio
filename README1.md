@@ -2,9 +2,11 @@
 
 # CONTENTS
 
-- [Description](#Description)
+- [Assessment Description](#Assessment-Description)
+- [Project Description](#Project-Description)
 - [Purpose](#Purpose-of-Food-Ladder-Web-application)
 - [Food Ladder Application](#Food-Ladder-application)
+  - [Version Control Process](#Version-Control-Process)
   - [Functionality/Features](#Functionality-and-Features)
   - [Images](#Screenshots)
   - [Tech Stacks](#tech-stacks)
@@ -19,17 +21,25 @@
   - [Screenshots of Trello board](#Screenshots-of-Trello-board)
 - [Short Answers](#Short-Answer-Questions)
 
-## Description
+## Assessment Description
+
+We are to design, build, deploy and present a web application (App) built for a real world customer.
+
+Find a business or organisation (preferably near your campus) to build an App for.
+
+Meet with the business owner or organisation manager to find out what challenges they face. Find a problem that you can solve with an App and present your ideas to the client.
+
+## Project Description
 
 Food Ladder is committed to leading the implementation of innovative and sustainable technologies to in-need communities and works exclusively with a host of world-class, tailored and proven products. As Food Ladder expands to other communities around the world, it would like to develop a web application to enhance its communications. So rather than having human resources in each country (which comes at an immense cost), Food Ladder can support communities virtually.
 
 How it would work is communities implement basic greenhouses structures using our blueprint and recommended supplier. We will then provide the know-how and support via manuals (operating guides, education, curriculums etc) and an online platform (website and app) so the system can thrive. This online platform will not only be a tool for communities to speak to our horticulture experts it will also be a self-moderating virtual community, where communities around the world can assist one another, providing growing tips, class ideas etc.
 
-View Food Ladder live web application, [HERE](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/).<br/><br/>
+View Food Ladder live web application, [HERE](http://food-ladder-bucket.s3-website-ap-southeast-2.amazonaws.com/)<br/><br/>
 View our Github repos here for:
 
 - [BACK-END](https://github.com/bHarlum/food-ladder-express)
-- [FRONT-END](https://github.com/bHarlum/food-ladder-react)<br/><br/>
+- [FRONT-END](https://github.com/bHarlum/food-ladder-react) <br/><br/>
 
 Project-related documentations
 
@@ -68,6 +78,27 @@ Cloning the project and installing Dependencies. Ensure you run 2 terminal windo
 
 - MongoDB
 - AWS
+
+## Version Control Process
+
+###### The Food Ladder project was split into three different types of branches:
+
+- The master branch was only reserved for tested working code. All code that is pushed to here should have been at least manually tested and not have any errors.
+
+- The dev branch is reserved for the merging of feature branches, testing that they work and bringing them together with other features.
+
+- The feature branches were where each feature was developed. Each branch had an informative name that related to the work being done. Once the required work was completed, a pull request would be generated and another team member would be assigned to review the code.
+
+###### Reviewing:
+
+Whenever a request to merge is made from a feature branch into dev, a team member would review each file that had changes and ensure that convention and correct coding practice was being followed.
+If small changes are required, a comment should be left by the reviewer and the pull request left without being merged. The comment should addressed through changes to the code or communication. Once any issues have been revolved, the pull request can be accepted and merged.
+Large changes will mean that the request should be rejected, and comments made to suggest changes.
+
+###### Tools:
+
+Github: Host for the project repo.
+Gitkraken: Used by all members to provide a GUI for interacting, viewing and making changes to branches, managing the project as a whole.
 
 ## Functionality and features
 
@@ -110,11 +141,6 @@ Cloning the project and installing Dependencies. Ensure you run 2 terminal windo
 
 - Access to user data and metrics
 - Ability to download and save documents/images/videos
-
-#### STRETCH GOALS
-
-- Instant Messaging/Direct Chat
-- Multilingual functionality
 
 ## Screenshots
 
