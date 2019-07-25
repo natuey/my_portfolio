@@ -234,6 +234,7 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 View our entire wireframe documents [here](https://drive.google.com/file/d/1Hi-p0L60FumElySOaPAIwwcj_y67mols/view?usp=sharing)
 
+![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/whiteboard-wireframes-01.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/landing_page.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/user_dash.png?raw=true)
 ![N|Solid](https://github.com/natuey/natuey.github.io/blob/master/project_rego.png?raw=true)
