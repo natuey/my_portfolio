@@ -80,6 +80,8 @@ Cloning the project and installing Dependencies. Ensure you run 2 terminal windo
 - MongoDB
 - AWS
 
+## Deployment Instructions
+
 View our [Deployment Instructions](https://docs.google.com/document/d/1rIXq4x8JuGYdHgKocJmVhcpoPfdOB3HAkWXFK0atJ38/edit?usp=sharing)
 
 ## Version Control Process
