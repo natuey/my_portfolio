@@ -360,7 +360,8 @@ JEST: Javascript Testing solution. Reasons: Tests are created by developers with
 
 ##### 4. Within your own project what knowledge or skills were required to complete your project, and overcome challenges?
 
-MERN
+An understanding of how to structure, build and interact with a REST API allowed us to build the foundation of the application. Within both the React frontend and the express backend knowledge of how HTTP requests are made, how to handle and make responses was required to link these two applications effectively. Behind the API is the document based database MongoDB, building this in the right way is very important. Understanding how this style of database differs from a relational database is essential to designing and building an efficient data storage and query system.
+The ability to use Debugging tools and processes is essential to increase the quality and speed of development, dealing with errors or bugs early and quickly not allowing them to hinder progress. Aside from technical skills, frequent communication sessions and feedback was one of the most key elements to overcoming any challenges that were encountered throughout the development process.
 
 ##### 5. Evaluate how effective your knowledge and skills were this project, using examples, and suggest changes or improvements for future projects of a similar nature?
 
