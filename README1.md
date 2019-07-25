@@ -3,7 +3,7 @@
 # CONTENTS
 
 - [Assessment Description](#Assessment-Description)
-- [Project Description](#Project-Description)
+- [Client Description](#Client-Description)
 - [Purpose](#Purpose-of-Food-Ladder-Web-application)
 - [Food Ladder Application](#Food-Ladder-application)
   - [Version Control Process](#Version-Control-Process)
@@ -29,7 +29,7 @@ Find a business or organisation (preferably near your campus) to build an App fo
 
 Meet with the business owner or organisation manager to find out what challenges they face. Find a problem that you can solve with an App and present your ideas to the client.
 
-## Project Description
+## Client Description
 
 Food Ladder is committed to leading the implementation of innovative and sustainable technologies to in-need communities and works exclusively with a host of world-class, tailored and proven products. As Food Ladder expands to other communities around the world, it would like to develop a web application to enhance its communications. So rather than having human resources in each country (which comes at an immense cost), Food Ladder can support communities virtually.
 
